@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Playing Lille RolePlay", "Playing Lille RolePlay"];
+const statusMessages = ["Joue à Lille RolePlay", "Joue à sortie du jeu samedi 15"];
 const statusTypes = [ 'dnd', 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
